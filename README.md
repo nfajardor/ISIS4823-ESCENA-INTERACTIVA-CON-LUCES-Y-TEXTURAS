@@ -1,4 +1,6 @@
 # ISIS4823-ESCENA-INTERACTIVA-CON-LUCES-Y-TEXTURAS
 
 # CREDITOS TEXTURAS
-1 - Piso Iglesia: "A dog's life software" (Unity asset store)
+"A dog's life software" (Unity asset store)
+"3d.rina" (Unity asset store)
+©2012 Entropy Wizard
