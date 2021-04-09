@@ -8,3 +8,7 @@
 "Innovana Games" (Unity asset store: https://assetstore.unity.com/packages/2d/textures-materials/wood/hand-painted-seamless-wood-texture-vol-6-162145)
 "Share Testures" (https://www.sharetextures.com/textures/floor/storm_marble_2/)
 "Avionx" (Unity asset store: https://assetstore.unity.com/packages/2d/textures-materials/sky/skybox-series-free-103633)
+
+# CREDITOS MUSICA
+"Cursed Intro" de Rafael Krux (https://freepd.com/music/Cursed%20Intro.mp3)
+"The Desert" de Alexander Nakarada (https://freepd.com/music/The%20Desert.mp3)
